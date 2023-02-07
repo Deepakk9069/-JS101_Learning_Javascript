@@ -1,0 +1,16 @@
+let name="Deepak kashyap";
+let school="ic inter college";
+let section="A";
+let roll_no=4;
+let Grade="A";
+let hindi_marks=93;
+let english_marks=94;
+let  maths_marks=90;
+console.log("student name:",name);
+console.log("school name:",school);
+console.log("section;",section);
+console.log("roll no:",roll_no);
+console.log("grade:",Grade);
+console.log("Hindi;",hindi_marks);
+console.log("English;",english_marks);
+console.log("Math:",maths_marks);
